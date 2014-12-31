@@ -1,0 +1,16 @@
+{
+    "name": "cmgriffing.brackets-wfo",
+    "title": "Working Files Only",
+    "description": "Modifies the sidebar to only show working files",
+    "homepage": "https://github.com/cmgriffing/brackets-wfo",
+    "version": "1.0.0",
+    "author": "Chris Griffing <cmgriffing@gmail.com> (http://chrisgriffing.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": [ "en" ],
+    "package-i18n": {
+        
+    }
+}
